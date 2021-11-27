@@ -1,0 +1,12 @@
+.bars{
+    margin-right: 200px;
+} 
+
+.barsbars{
+    margin-right: 30px;
+}
+
+
+.nav-link:hover {
+    text-decoration: underline;
+}

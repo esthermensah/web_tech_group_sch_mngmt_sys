@@ -1,0 +1,10 @@
+.form-background{
+    background-color:#fff;
+}
+
+.popup-form{
+    max-width:800px;
+    width:100%;
+    padding:15px 15px;
+    border-radius: 5px;
+}
